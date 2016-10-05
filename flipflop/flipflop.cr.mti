@@ -1,0 +1,15 @@
+C:/Users/hadi/Desktop/cs3220-examples/flipflop/TestFlipFlop.v {1 {vlog -work work {C:\Users\hadi\Desktop\cs3220-examples\flipflop\TestFlipFlop.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestFlipFlop
+
+Top level modules:
+	TestFlipFlop
+
+} {} {}} C:/Users/hadi/Desktop/cs3220-examples/flipflop/FlipFlop.v {1 {vlog -work work C:/Users/hadi/Desktop/cs3220-examples/flipflop/FlipFlop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FlipFlop
+
+Top level modules:
+	FlipFlop
+
+} {} {}}
